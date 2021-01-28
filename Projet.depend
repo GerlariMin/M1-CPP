@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1610305250 source:c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\main.cpp
+	<iostream>
+	<winuser.h>
+	<fstream>
+	<vector>
+	<cstring>
+	<conio.h>
+	"Carte.h"
+	"Element.h"
+	"Obstacle.h"
+	"Personnage.h"
+	"Guerrier.h"
+	"Mage.h"
+
+1607887311 source:c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\fichier.cpp
+	"Fichier.h"
+
+1607887134 c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\fichier.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1610301296 source:c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\carte.cpp
+	"Carte.h"
+
+1610301038 c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\carte.h
+	"Element.h"
+	"Personnage.h"
+	"Mage.h"
+	"Guerrier.h"
+	"ObjetRamassable.h"
+	<fstream>
+	<iostream>
+	<vector>
+
+1610206818 source:c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\position.cpp
+	"Position.h"
+
+1610206890 c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\position.h
+
+1610301715 source:c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\element.cpp
+	"Element.h"
+
+1610301720 c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\element.h
+	"Position.h"
+	<iostream>
+
+1610206993 source:c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\obstacle.cpp
+	"Obstacle.h"
+
+1610302747 c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\obstacle.h
+	"Element.h"
+
+1610303861 source:c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\personnage.cpp
+	"Personnage.h"
+
+1610303203 c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\personnage.h
+	"Element.h"
+	"ObjetRamassable.h"
+	<vector>
+
+1610302481 source:c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\objetramassable.cpp
+	"ObjetRamassable.h"
+
+1610302540 c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\objetramassable.h
+	"Element.h"
+
+1610302077 source:c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\guerrier.cpp
+	"Guerrier.h"
+
+1610301872 c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\guerrier.h
+	"Personnage.h"
+
+1610303714 source:c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\mage.cpp
+	"Mage.h"
+
+1610302146 c:\users\gerla\onedrive\documents\master logiciels surs\c++\projet\mage.h
+	"Personnage.h"
+

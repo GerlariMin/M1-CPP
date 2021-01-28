@@ -1,0 +1,13 @@
+entete de la carte 2: la ligne suivante est la hauteur de la grille, celle d'après la hauteur et les autres sont les lignes de la carte.
+10
+20
+xxxxxx*xxxxxxxxxxxxx
+xxxxxx**xxxxxx3xxxxx
+xxx1xxx*xxxxxxxxxxxx
+xxxxxxxxx1xxxxxxxxxx
+xxxxxxxx2xxxxxxxxxxx
+xxxxxxxxxx3xxxxxxxxx
+**x***xxxxxxxxxxxxxx
+xxxxx*xxxxxxxxxxxxxx
+xx2xx*xxxxxxxxxxxxxx
+xxxxx*xx1xxxxxxxxxxx
